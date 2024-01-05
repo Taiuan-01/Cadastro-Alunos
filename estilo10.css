@@ -1,0 +1,40 @@
+body{
+    margin: 1px;
+    padding: 5px;
+}
+.tema{
+    width: 100%; 
+    max-width: 1500px;
+    font-size: 1.5vw;
+    background: red;
+    text-align: center;
+} 
+
+#forms{
+    width: 100%;
+    max-width: 1500px;
+    float: left;
+    font-family: Arial;
+    font-size: 1.5vw;
+    background-color: #71a9e9;
+} 
+
+#aluno{
+    background-color: rgba(53, 135, 230, 0.493);
+    
+}
+
+#numero{
+    background-color: rgba(53, 135, 230, 0.493);
+    
+}
+
+#tabela{
+    margin: 0;
+    width: 50%;
+    text-align: center;
+    border: 1px solid #000; 
+    font-size: 1.5vw;
+    float: left;
+    width: 1500px;
+}
